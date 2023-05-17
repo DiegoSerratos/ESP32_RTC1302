@@ -1,0 +1,3 @@
+# ESP32_RTC1302
+
+Este es un codigo para configurar un RTC con la la libreria 1302 en ESP32...
